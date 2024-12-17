@@ -1,0 +1,19 @@
+# Cypress folders
+cypress/videos/
+cypress/screenshots/
+allure-results/
+
+# Cypress config and environment files (if using custom ones)
+cypress.env.json
+
+# Cypress cache
+node_modules/.cache
+
+# General Node.js and IDE ignores
+node_modules/
+.env
+.DS_Store
+*.log
+*.tmp
+.idea/
+.vscode/
