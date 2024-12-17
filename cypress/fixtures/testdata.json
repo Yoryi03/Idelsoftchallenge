@@ -1,0 +1,17 @@
+[
+  {
+    "fname": "Rafael",
+    "lname": "De la Rosas",
+    "email": "hello@cypress.do",
+    "InvalidEmail": "hello@cypress.d",
+    "password": "Testing2024",
+    "invalidPassword": "Testing202",
+    "radianTeeProduct":"Radiant",
+    "JacketsProduct":"Jacket",
+    "BreatheEasyTankProduct":"Breathe-Easy Tank",
+    "minimunCharacter":"jac",
+    "lessMinimunCharacter":"ja"
+  
+  }
+  
+]
